@@ -16,7 +16,7 @@ touch tmp/restart.txt
 
 activate node.js
 
-/nuxt/publuc
+/nuxt/public
 
 /nuxt
 
